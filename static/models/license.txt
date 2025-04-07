@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ozzie - Rock Dog
+* source:	https://sketchfab.com/3d-models/ozzie-rock-dog-4c704bf9cf924587b13bedc0944baa9c
+* author:	megajakerake (https://sketchfab.com/jacobq1004)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ozzie - Rock Dog" (https://sketchfab.com/3d-models/ozzie-rock-dog-4c704bf9cf924587b13bedc0944baa9c) by megajakerake (https://sketchfab.com/jacobq1004) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
